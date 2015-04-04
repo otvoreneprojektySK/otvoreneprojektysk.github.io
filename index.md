@@ -4,11 +4,7 @@ title: Otvorené Projekty (.sk)
 tagline: Vitajte na "centrálnom rozcestníku".
 ---
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-Here's a sample "posts list".
+Ešte sa sem nepozerajte, nič tu nie je ;)
 
 <ul class="posts">
   {% for post in site.posts %}
