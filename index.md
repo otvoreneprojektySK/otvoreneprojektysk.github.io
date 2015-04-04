@@ -16,4 +16,4 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
-
+[//]: # (komentar)
